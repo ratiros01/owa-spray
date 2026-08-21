@@ -21,7 +21,7 @@ This tool uses `auth.owa` with full session handling:
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/owa-spray.git
+git clone https://github.com/ratiros01/owa-spray.git
 cd owa-spray
 pip install requests
 ```
