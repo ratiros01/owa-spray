@@ -89,7 +89,7 @@ python3 owa_spray.py -t https://mail.target.com -d DOMAIN -u users.txt -p passwo
   Rate    : 3.2/s
 
   Valid Credentials:
-    CORP\ahope:Summer2025
+    CORP\testuser:testpassword
 ==================================================
 ```
 
